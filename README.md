@@ -1,1 +1,1 @@
-Crud Básico utilizando NodeJS e MySQL
+Simples crud feito com nodejs e mysql
